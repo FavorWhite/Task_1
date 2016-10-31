@@ -81,6 +81,9 @@ namespace Task1_DAL.Content
             Heroes.PlatformTypes.Add(mobile);
             Heroes.PlatformTypes.Add(browser);
 
+
+
+
             NFS.Genres.Add(Races);
             NFS.Genres.Add(arcade);
             NFS.PlatformTypes.Add(desktop);
