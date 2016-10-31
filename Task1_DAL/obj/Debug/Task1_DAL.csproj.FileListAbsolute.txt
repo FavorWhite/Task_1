@@ -1,0 +1,10 @@
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\Task1_DAL.dll.config
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\Task1_DAL.dll
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\Task1_DAL.pdb
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\EntityFramework.dll
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\EntityFramework.xml
+D:\Tasks\Task1\Task1\Task1_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tasks\Task1\Task1\Task1_DAL\obj\Debug\Task1_DAL.csprojResolveAssemblyReference.cache
+D:\Tasks\Task1\Task1\Task1_DAL\obj\Debug\Task1_DAL.dll
+D:\Tasks\Task1\Task1\Task1_DAL\obj\Debug\Task1_DAL.pdb
